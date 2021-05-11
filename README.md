@@ -1,4 +1,6 @@
 # Modern-shotgun-pipeline
+Scripts and notes on how to work with PLINK files, EIGENSTRAT files, converting between them. |
+How to run and plot ADMIXTURE and smartPCA. \
 
 ## Make Sample Sheet
 Sample sheet format. (index should be reverse complement of actual index molecule) library prep check documentation to make sure this is right, sometimes they provide index already converted to reverse compliment, sometimes not. Can run both to verify you used the right one. 
